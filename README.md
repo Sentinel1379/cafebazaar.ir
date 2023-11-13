@@ -5,14 +5,14 @@
    
 
 <figure>
-  <img src="/img/Demo/giff4.gif" width="700px"/>
+  <img src="/Images/Demo/giff4.gif" width="700px"/>
 </figure>
      
 تصاویر سایت :  
      
 <figure>
-  <img src="/img/Demo/s1.png" width="700px"/>
-  <img src="/img/Demo/s2.png" width="700px"/>
-  <img src="/img/Demo/s3.png" width="700px"/>
-  <img src="/img/Demo/s4.png" width="700px"/>
+  <img src="/Images/Demo/s1.png" width="700px"/>
+  <img src="/Images/Demo/s2.png" width="700px"/>
+  <img src="/Images/Demo/s3.png" width="700px"/>
+  <img src="/Images/Demo/s4.png" width="700px"/>
 </figure>
